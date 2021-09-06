@@ -6,10 +6,7 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
       },
 
-{
-         "name": "Dtac90days_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE2.ovpn"
-      },
+
 {
          "name": "Dtac90days_VIP1",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP1.ovpn"
@@ -24,10 +21,7 @@
          "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacHappyWork_FREE.ovpn"
       },
 
-{
-         "name": "DtacHappyWork_FREE2",
-         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacHappyWork_FREE2.ovpn"
-      },
+
       
 
 {
@@ -53,10 +47,7 @@
          "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacSocial_FREE.ovpn"
       },
 
-{
-         "name": "DtacSocial_FREE2",
-         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacSocial_FREE2.ovpn"
-      },
+
 {
          "name": "DtacSocial_VIP1",
          "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacSocial_VIP1.ovpn"
@@ -71,10 +62,6 @@
          "name": "TrueNoPro_FREE",
          "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TrueNoPro_FREE.ovpn"
       }   ,
-{
-         "name": "TrueNoPro_FREE2",
-         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TrueNoPro_FREE2.ovpn"
-      }   ,
 
 {
          "name": "TrueNoPro_VIP1",
@@ -86,7 +73,7 @@
       }   
 
    ],
-"message":"Added new FREE2 one account\n \nVersion: 1.5\nupdate: 6/09/2021\nUpdate by: sansoe\n \n• Dtac 90days \n• Dtac Happy Work\n• Dtac Social\n• Dtac LINE\n• True No Pro ",
+"message":"Added new FREE2 one account\n \nVersion: 1.5\nupdate: 1/09/2021\nUpdate by: sansoe\n \n• Dtac 90days \n• Dtac Happy Work\n• Dtac Social\n• Dtac LINE\n• True No Pro ",
    "title":"New file update available" ,
-   "version": 6
+   "version": 5
 }
