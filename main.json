@@ -1,7 +1,20 @@
 {
    "files": [   
 
+
+"name": "Dtac90days_VIP",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/Config.ovpn"
+      }
+,
+
+
+
+
 {
+
+
+
+
          "name": "Dtac90days_FREE",
          "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/Config.ovpn"
       }
