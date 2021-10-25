@@ -1,13 +1,14 @@
 {
    "files": [   
 
+
 {
          "name": "Dtac90days_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
       },
 {
          "name": "Dtac90days_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE2.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_03.ovpn"
       },
 {
          "name": "Dtac90days_VIP1",
@@ -33,7 +34,7 @@
       },
  {
          "name": "DtacHappyWork_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE2.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/test.ovpn"
       },
  
       {
@@ -55,7 +56,10 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP4.ovpn"
       },
 
-
+{
+         "name": "DtacLINE_FREE",
+         "url": "https://kguza.net/web/file/maine/Dtac_Line_03.ovpn"
+      },
 
 {
          "name": "DtacLINE_VIP1",
@@ -84,7 +88,7 @@
 
 {
          "name": "DtacSocial_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE2.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Social_03.ovpn"
       },
 
 {
@@ -116,7 +120,7 @@
 
      {
          "name": "TrueNoPro_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE2.ovpn"
+         "url": "https://kguza.net/web/file/maine/True_03.ovpn"
       },
 
 
@@ -139,10 +143,19 @@
 {
          "name": "TrueNoPro_VIP4",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP4.ovpn"
+      },
+{
+         "name": "TrueSocial_VIP3",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueSocial_VIP3.ovpn"
+      },
+
+{
+         "name": "TrueSocial_VIP4",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueSocial_VIP4.ovpn"
       }
 
    ],
-"message":"Added new VIP3 & VIP4\n \nVersion: 1.8\nupdate: 25/09/2021\nUpdate by: sansoe\n \n• Dtac 90days \n• Dtac Happy Work\n• Dtac Social\n• Dtac LINE\n• True No Pro ",
-   "title":"New file update available" ,
-   "version": 8
+"message":"update: 25/10/2021\n \nConfig version: 1.9\n Update by: sansoe\n \n",
+   "title":"New config update available" ,
+   "version": 9
 }
