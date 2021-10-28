@@ -143,19 +143,10 @@
 {
          "name": "TrueNoPro_VIP4",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP4.ovpn"
-      },
-{
-         "name": "TrueSocial_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueSocial_VIP3.ovpn"
-      },
-
-{
-         "name": "TrueSocial_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueSocial_VIP4.ovpn"
       }
 
    ],
-"message":"update: 25/10/2021\n \nConfig version: 1.9\n Update by: sansoe\n \n",
+"message":"update: 28/10/2021\n \nConfig version: 2.0\n Update by: sansoe\n \n",
    "title":"New config update available" ,
-   "version": 9
+   "version": 10
 }
