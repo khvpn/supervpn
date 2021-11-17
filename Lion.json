@@ -11,15 +11,15 @@
          "url": "https://kguza.net/web/file/maine/Dtac_Lazada_03.ovpn"
       },
 {
-         "name": "SG-Dtac90days_03",
+         "name": "UK-Dtac90days_03",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP1.ovpn"
       },
 {
-         "name": "SG-TrueNoPro_04",
+         "name": "TH-TrueNoPro_04",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP2.ovpn"
       },
 {
-         "name": "SG-TrueNoPro_05",
+         "name": "IN-TrueNoPro_05",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP3.ovpn"
       }
 
@@ -28,5 +28,5 @@
    ],
 "message":"update: 8/11/2021\n \nConfig version: 2.1\n Update by: sansoe\n \n",
    "title":"New config update available" ,
-   "version": 1
+   "version": 2
 }
