@@ -1,14 +1,13 @@
 {
    "files": [   
 
-
 {
          "name": "Dtac90days_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
       },
 {
          "name": "Dtac90days_FREE2",
-         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_03.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Lazada_04.ovpn"
       },
 {
          "name": "Dtac90days_VIP1",
@@ -58,7 +57,7 @@
 
 {
          "name": "DtacLINE_FREE",
-         "url": "https://kguza.net/web/file/maine/Dtac_Line_03.ovpn"
+         "url": "https://kguza.net/web/file/maine/Dtac_Line_04.ovpn"
       },
 
 {
@@ -84,11 +83,6 @@
 {
          "name": "DtacSocial_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE.ovpn"
-      },
-
-{
-         "name": "DtacSocial_FREE2",
-         "url": "https://kguza.net/web/file/maine/Dtac_Social_03.ovpn"
       },
 
 {
@@ -120,7 +114,7 @@
 
      {
          "name": "TrueNoPro_FREE2",
-         "url": "https://kguza.net/web/file/maine/True_03.ovpn"
+         "url": "https://kguza.net/web/file/maine/True_04.ovpn"
       },
 
 
@@ -146,7 +140,7 @@
       }
 
    ],
-"message":"update: 3/12/2021 \nConfig version: 15\nUpdate by: sansoe ",
+"message":"update: 14/12/2021 \nConfig version: 16\nUpdate by: sansoe ",
    "title":"New config update available" ,
-   "version": 15
+   "version": 16
 }
